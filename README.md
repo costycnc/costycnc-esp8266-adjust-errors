@@ -2,4 +2,4 @@
 
 copied from https://sites.google.com/site/esp12wifi/edit-esp-basic
 
-first variant one file 
+copied only first variant in one file 
