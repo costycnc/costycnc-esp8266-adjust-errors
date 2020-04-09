@@ -1,4 +1,4 @@
-# costycnc-esp8266-adjust-errors
+# costycnc-espbasic-no-errors
 
 copied from https://sites.google.com/site/esp12wifi/edit-esp-basic
 
