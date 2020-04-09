@@ -2,6 +2,8 @@
 
 espbasic is created by Michael Molinari site: http://www.esp8266basic.com/ and youtube: https://www.youtube.com/user/SMB1Soft
 
+esp 2.0 basic language reference https://docs.google.com/document/d/1NMZvnnjZ5XNzkykINgYS_Ql6mQ3nJEAzYudbmScdiIg/pub
+
        Button "open" [setthepin]
        Button "close" [resetthepin]
        Wait
