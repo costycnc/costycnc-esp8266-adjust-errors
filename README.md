@@ -4,7 +4,7 @@ espbasic is created by Michael Molinari site: http://www.esp8266basic.com/ and y
 
 copied from https://sites.google.com/site/esp12wifi/edit-esp-basic where also is                   https://github.com/costycnc/espbasic_modified/raw/master/flash_download_tools_v3.6.7.zip tools uploader
 
-also you can download 
+also you can download https://github.com/esp8266/Basic/raw/NewWebSockets/Flasher/ESP_Basic_Flasher.exe run it and change                              Build\1M\ESP8266Basic.cpp.bin with ESP8266Basic.cpp.bin from there
 
 copied only first variant of espbasic in one file ... because ultimate espbasic give me some errors ... also this variant in one file is                               easy to understand
 
