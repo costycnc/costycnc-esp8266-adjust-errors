@@ -32,3 +32,6 @@ also you can download https://github.com/esp8266/Basic/raw/NewWebSockets/Flasher
 In this project is copied only first variant of espbasic in one file ... because ultimate espbasic give me some errors ... also this                     variant in one file is easy to understand
 
 My site is www.costycnc.it and facebook group https://www.facebook.com/groups/2260525320891608
+
+
+![alt text](https://github.com/costycnc/costycnc-espbasic-adjust-errors/blob/master/foto/android.png)
