@@ -8,4 +8,4 @@ For compile i used Arduino 1.8.10 with aditional board manager : http://arduino.
 
 ![alt text](https://github.com/costycnc/espbasic_modified/blob/master/board.jpg)
 
-![alt text](https://github.com/costycnc/espbasic_modified/blob/master/board.jpg)
+![alt text](https://github.com/costycnc/costycnc-espbasic-adjust-errors/blob/master/1.8.10.jpg)
