@@ -2,6 +2,18 @@
 
 espbasic is created by Michael Molinari site: http://www.esp8266basic.com/ and youtube: https://www.youtube.com/user/SMB1Soft
 
+'''
+Button "open" [setthepin]
+Button "close" [resetthepin]
+Wait
+[setthepin]
+Po 0 1
+Wait
+[resetthepin]
+Po 0 0
+Wait
+'''
+
 For compile i used Arduino 1.8.10 with aditional board manager : http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ![alt text](https://github.com/costycnc/espbasic_modified/blob/master/board.jpg)
