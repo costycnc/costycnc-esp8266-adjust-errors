@@ -1,6 +1,6 @@
 # costycnc-espbasic-no-errors
 
-copied from https://sites.google.com/site/esp12wifi/edit-esp-basic
+copied from https://sites.google.com/site/esp12wifi/edit-esp-basic where also is                   https://github.com/costycnc/espbasic_modified/raw/master/flash_download_tools_v3.6.7.zip tools uploader
 
 copied only first variant of espbasic in one file ... because ultimate espbasic give me some errors ... also this variant in one file is                               easy to understand
 
