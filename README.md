@@ -1,5 +1,7 @@
 # costycnc-esp8266-adjust-errors
 
+copied from https://sites.google.com/site/esp12wifi/edit-esp-basic
+
 WiFi.mode(WIFI_STA);
   WiFi.begin(ssid, password);
 
